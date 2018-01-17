@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Chonla.Duration</PackageId>
+    <PackageVersion>1.0.1</PackageVersion>
+    <Author>Chonlasith Jucksriporn</Author>
+    <Description>Duration parser which return a timespan</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNote>First Release</PackageReleaseNote>
+    <Copyright>Copyright 2018 (c) Chonlasith Jucksriporn</Copyright>
+    <PackageTags>duration parser timespan</PackageTags>
+  </PropertyGroup>
+
+</Project>
